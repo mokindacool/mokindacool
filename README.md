@@ -58,6 +58,30 @@ In the future, I see myself sharing my knowledge and helping others learn by:
         - Achieved an **accuracy of ~87%** on the training dataset.
         - Balanced trade-offs between **precision**, **recall**, and **false positive rate**.
 
+- Predicting Housing Prices in Cook County
+    - This project involves creating a predictive model to estimate housing prices in Cook County using a linear regression approach. The dataset includes property features and sale prices, with 204,792 entries for training/validation and 55,311 entries for testing.
+        - Key Features Engineered
+            - **Log-transformed Sale Price**: Normalized skewed housing price data.
+            - **Land Area Features**: Square and log-transformed land square feet.
+            - **Garage and Fireplaces**: Quantified garage sizes and number of fireplaces.
+            - **Property Age**: Added a feature for property age and decade.
+            - **Neighborhood and Location**: Incorporated town and neighborhood information.
+        - Data Processing Pipeline
+            1. **Outlier Removal**: Filtered sale prices using quartile-based thresholds.
+            2. **Imputation**: Replaced missing values with the median for numerical features.
+            3. **Log Transformations**: Applied to skewed features like building square feet and sale prices.
+        - Visual Analysis
+            - **Correlation Matrix**: Identified features with strong correlations to housing prices.
+            - **Residual Plot**: Evaluated fairness and accuracy of the model, highlighting progressive behavior.
+            - Utilized a **linear regression model** with a robust **data processing pipeline**.
+            - **Training RMSE**: Achieved ~104,139 on the training dataset.
+            - Balanced feature engineering to ensure accuracy and fairness in predictions.
+        - Ethical Implications
+            - Addressed **racial and economic disparities** in Cook County's property tax assessments.
+            - Designed the model to minimize risks of **regressive taxation**.
+            - Aimed to provide equitable assessments mindful of historical inequalities.
+
+
 
 
 
