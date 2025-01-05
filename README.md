@@ -15,7 +15,7 @@
 ---
 
 ## 🔭 About Me  
-My name is Mohamed, and I am a third-year Data Science student at UC Berkeley who leverages logical programming to extract meaningful insights from data using appealing visualizations, statistical techniques, and machine learning. I love to create visualizations using several Python packages such as Pandas, Matplotlib, Plotly, and more. 
+My name is Mohamed, and I am a third-year Data Science student at UC Berkeley who uses logical programming to extract meaningful insights from data using appealing visualizations, statistical techniques, and machine learning. I love to create visualizations using several Python packages such as Pandas, Matplotlib, Plotly, and more. 
 
 Some of the statistical techniques I commonly use are:
 - Correlation analysis
@@ -24,7 +24,7 @@ Some of the statistical techniques I commonly use are:
 - ANOVA/MANOVA
 - And many more.
 
-I know how to set up proper experimentation setups and utilize A/B testing to validate results. My strong foundation in Mathematics allows me to fully grasp the process of machine learning with skills in Linear Algebra, Multivariable Calculus, Optimization, and Probability to ensure the best models with the correct assumptions.
+I know how to set up proper experimentation and utilize A/B testing to validate results. My strong foundation in Mathematics allows me to fully grasp the process of machine learning with skills in Linear Algebra, Discrete Math, Optimization, and Probability to ensure the best models with the correct assumptions.
 
 I love to learn about data and stay updated by:
 - Reading the latest research papers in machine learning
