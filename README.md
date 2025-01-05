@@ -1,3 +1,6 @@
+
+
+![Black Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/da610194-da5b-44a1-9f2e-7cba66ba1324)
 ## Hi there 👋
 
 <!--
