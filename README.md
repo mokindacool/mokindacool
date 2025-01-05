@@ -55,7 +55,7 @@ In the future, I see myself sharing my knowledge and helping others learn by:
         - Proportions of spam/ham emails containing specific words and features.
       - **Algorithm**: Trained a **logistic regression model** using the engineered features.
       - **Performance**:
-        - Achieved an **accuracy of ~87%** on the training dataset.
+        - Achieved an **accuracy of ~87%** on the testing dataset.
         - Balanced trade-offs between **precision**, **recall**, and **false positive rate**.
 
 - Predicting Housing Prices in Cook County
