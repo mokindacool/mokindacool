@@ -2,14 +2,20 @@
 
 ![Black Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/da610194-da5b-44a1-9f2e-7cba66ba1324)
 
-# Hi 👋, I'm [Mohamed Ganda]
+<div align="center">
+
+# Hi 👋, I'm [Your Name]
 
 **Data Driven with a passion for crunching numbers and believes in good data practices.**
+
+</div>
+
+
 
 ---
 
 ## 🔭 About Me  
-My name is [Your Name], and I am a [your profession, e.g., mathematician, data scientist, etc.] who utilizes logical programming to extract meaningful insights from data using appealing visualizations, statistical techniques, and machine learning. I love to create visualizations using several Python packages such as Pandas, Matplotlib, Plotly, and more. I also utilize Power BI to make dashboard reports with essential KPIs and clean data using Power Query Editor.
+My name is Mohamed, and I am a third-year Data Science student at UC Berkeley who leverages logical programming to extract meaningful insights from data using appealing visualizations, statistical techniques, and machine learning. I love to create visualizations using several Python packages such as Pandas, Matplotlib, Plotly, and more. 
 
 Some of the statistical techniques I commonly use are:
 - Correlation analysis
