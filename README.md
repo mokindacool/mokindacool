@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Mohamed Ganda
 
 **Data Driven with a passion for crunching numbers and believes in good data practices.**
 
@@ -36,9 +36,7 @@ I love to learn about data and stay updated by:
 ## 🌟 Future Goals  
 In the future, I see myself sharing my knowledge and helping others learn by:
 - Creating full tutorials on projects related to Data Science and Data Engineering on my GitHub.
-- Starting blogs on Medium and uploading more work to Kaggle.
-
-I aim to inspire newcomers into the world of Data by taking a simplistic approach that motivates them to grow.
+- Secure an internship to deepen my understanding and gain hands-on experience in this field, allowing me to further develop my skills and knowledge.
 
 ---
 
