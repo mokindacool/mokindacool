@@ -39,8 +39,12 @@ In the future, I see myself sharing my knowledge and helping others learn by:
 - Secure an internship to deepen my understanding and gain hands-on experience in this field, allowing me to further develop my skills and knowledge.
 
 ---
+## 👨‍💻 Latest Projects 💡
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=green&style=flat)
+- Spam & Ham
+  This project involved creating a spam/ham classifier using logistic regression to distinguish between spam (unwanted or promotional emails) and ham (regular emails). The dataset contained over 8,000 labeled emails, which were preprocessed and split into training and validation sets. Key steps included cleaning the data, engineering features such as the presence of HTML tags, font size formatting, URLs, and punctuation (e.g., exclamation marks), and selecting features with higher relevance to spam classification. Feature engineering was enhanced through exploratory data analysis (EDA), which revealed patterns like longer subject lengths or excessive formatting being associated with spam. After training the logistic regression model, I achieved an accuracy of approximately 92% on the training set. The project also involved evaluating the model's performance through metrics like precision, recall, and false positive rates, and visualizing the trade-offs using an ROC curve. This approach allowed me to refine the model for improved spam detection accuracy.
+
 
 
 
