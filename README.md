@@ -43,7 +43,25 @@ In the future, I see myself sharing my knowledge and helping others learn by:
 ---
 
 - Spam & Ham
-  -This project involved creating a spam/ham classifier using logistic regression to distinguish between spam (unwanted or promotional emails) and ham (regular emails). The dataset contained over 8,000 labeled emails, which were preprocessed and split into training and validation sets. Key steps included data cleaning, feature engineering (such as the presence of HTML tags, font size formatting, URLs, and punctuation like exclamation marks), and selecting features with higher relevance to spam classification. Exploratory Data Analysis (EDA) revealed patterns like longer subject lengths and excessive formatting being associated with spam. After training the logistic regression model, we achieved an accuracy of approximately 87% on the training set.  The project also involved evaluating the model's performance through metrics like precision, recall, and false positive rates, and visualizing the trade-offs using an ROC curve. This approach allowed me to refine the model for improved spam detection accuracy.
+    - This project involved creating a spam/ham classifier using logistic regression to distinguish between spam (unwanted or promotional emails) and ham (regular emails). The dataset contained over 8,000 labeled emails, which were preprocessed and split into training and validation sets. Key steps included data cleaning, feature engineering (such as the presence of HTML tags, font size formatting, URLs, and punctuation like exclamation marks), and selecting features with higher relevance to spam classification. Exploratory Data Analysis (EDA) revealed patterns like longer subject lengths and excessive formatting being associated with spam. After training the logistic regression model, we achieved an accuracy of approximately 87% on the training set.  The project also involved evaluating the model's performance through metrics like precision, recall, and false positive rates, and visualizing the trade-offs using an ROC curve. This approach allowed me to refine the model for improved spam detection accuracy.
+  - ### 🔍 Feature Engineering
+  - Key features extracted from the emails:
+    - **HTML tags**: Presence of HTML formatting (common in spam emails).
+    - **Font size formatting**: Usage of font adjustments to attract attention.
+    - **URLs**: Count of links in emails.
+    - **Punctuation**: Frequency of **exclamation marks** (`!`) and **question marks** (`?`).
+    - **Subject length**: Length of email subject lines.
+  
+  ### 📊 Exploratory Data Analysis (EDA)
+  - Visualized patterns in email text, including:
+    - **Distribution of subject lengths** for spam vs. ham emails.
+    - Proportions of spam/ham emails containing specific words and features.
+  
+  ### 🤖 Model Training
+  - **Algorithm**: Trained a **logistic regression model** using the engineered features.
+  - **Performance**:
+    - Achieved an **accuracy of ~87%** on the training dataset.
+    - Balanced trade-offs between **precision**, **recall**, and **false positive rate**.
 
 
 
